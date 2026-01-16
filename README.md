@@ -33,7 +33,6 @@ A premium AI-powered content generation app built with Next.js 14, Tailwind CSS,
    ```bash
    npm run dev
    ```
-   Open [http://localhost:3000](http://localhost:3000).
 
 ## Tech Stack
 - Frontend: Next.js 14 (App Router), Tailwind CSS, Framer Motion, Lucide React.
